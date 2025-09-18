@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jacob! <br/><a href="https://github.com/JacobFerguson-Cloud">IT Specilaist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cloud Engineer</a>, <a href="https://www.youtube.com/c/joshmadakor">Project Management</a></h1>
+<h1>Hi, I'm Jacob! <br/><a href="www.linkedin.com/in/jfergusoncareer">IT Specilaist</a>, <a href="www.linkedin.com/in/jfergusoncareer">Cloud Engineer</a>, <a href="www.linkedin.com/in/jfergusoncareer">Project Management</a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
