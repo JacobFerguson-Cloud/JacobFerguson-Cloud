@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Python Projects</b>
-  - [Dice Rolling Game](https://github.com)
+  - [Dice Rolling Game](https://github.com/JacobFerguson-Cloud/JacobFerguson-Cloud/blob/main/Dice%20Rolling%20Game)
 - <b>Azure Labs</b>
   - [Azure Labs (Coming Soon)]() 
 
