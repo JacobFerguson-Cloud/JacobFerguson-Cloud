@@ -11,8 +11,7 @@
 
 <h2>📺 Certifications</h2>
 
- <img width="101" height="101" alt="image" src="https://github.com/user-attachments/assets/e7f31a94-76fc-469b-aa01-76e8fa8deb45" /> 
- <img width="101" height="101" alt="image" src="https://images.credly.com/size/110x110/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob"/>
+ <img width="1000" height="1000" alt="image" src="https://media.licdn.com/dms/image/v2/D5616AQFKsO6fEjM3pA/profile-displaybackgroundimage-shrink_350_1400/B56ZojK9ECHkAY-/0/1761526666278?e=1764806400&v=beta&t=2rTK9S8BdLUd_qUFyV8rwakNV3xOEOoheRgGOzUM-SY"/> 
 
 
 
